@@ -1,0 +1,22 @@
+{
+  "name": "write",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaqijian/write.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaqijian/write/issues"
+  },
+  "homepage": "https://github.com/xiaqijian/write#readme",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
